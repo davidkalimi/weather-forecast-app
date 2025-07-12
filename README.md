@@ -30,7 +30,7 @@ A modern and responsive weather application built with vanilla JavaScript, HTML,
 
 ## 📸 Preview
 
-![App Screenshot](assets/message/search-city.png)
+![App Screenshot](assets/message/screenshot.png)
 
 ---
 
